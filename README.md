@@ -1,6 +1,6 @@
 <h1 align="center">Yoo 👋, I'm Elvis</h1>
 <h3 align="center">An ardent student currently pursuing bachelor in Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/0fd8d2714b5873de697f3048956ada4c/tumblr_myxch0XHC81qzqnxxo1_500.gifv">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv">
 
 - 🌱 Studying **Software Engineering**
 
