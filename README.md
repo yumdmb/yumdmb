@@ -1,8 +1,8 @@
 
 <h1 align="center">Yoo 👋, I'm Elvis</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv">
-- 📫 How to reach me **elvissawing.muran@gmail.com**
 
+- 📫 How to reach me **elvissawing.muran@gmail.com**
 - ⚡ Fun fact **I love to play flight simulation games !**
 
 <h3 align="left">Connect with me:</h3>
