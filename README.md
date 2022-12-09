@@ -1,5 +1,5 @@
 
-<h1 align="center">Yoo 👋, I'm Elvis</h1>
+<h1 align="center">Yoo <img src="https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif" width="32" height="32"/>, I'm Elvis</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv">
 
 - 📫 Reach me via : **elvissawing.muran@gmail.com**
