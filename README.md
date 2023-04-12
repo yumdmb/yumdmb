@@ -1,7 +1,8 @@
 
 <h1 align="center">Waddup <img src="https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif" width="40" height="40"/></h1>
-<img align="center" alt="lek lu" width="400" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv">
-
+<h2 align="center">
+    <img alt="lek lu" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" height="250px"/></img>
+</h2>
 
 ## Skills 💻
 
