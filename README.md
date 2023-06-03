@@ -4,7 +4,7 @@
     <img alt="lek lu" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" height="250px"/></img>
 </h2>
 
-## Skills 💻
+<!-- ## Skills 💻
 
 ### Languages 💬
 <p>
@@ -32,9 +32,9 @@
  <img alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
   
-</p>
+</p> -->
 
-## GitHub Stats 📊
+<!-- ## GitHub Stats 📊 -->
 ###  
 <p align="center">
 <img title="yumdmb's languages" alt="yumdmb's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdmb&langs_count=10&theme=codeSTACKr&hide=makefile"/>
