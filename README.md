@@ -1,5 +1,10 @@
 
 <h1 align="center">Waddup <img src="https://emojis.slackmojis.com/emojis/images/1643514770/7808/party-blob.gif" width="40" height="40"/></h1>
+<!-- Quotes -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E5F2F7&width=435&separator=%3D&lines=cout+%3C%3C%22Hi!+I'm+yumdumb%22%3C%3C;" alt="Typing SVG" /></a>
+</p>
+<!-- GIF -->
 <h2 align="center">
     <img alt="lek lu" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" height="250px"/></img>
 </h2>
@@ -34,11 +39,16 @@
   
 </p> -->
 
-<!-- ## GitHub Stats 📊 -->
-###  
+<!-- Github Streaks & Stats -->
 <p align="center">
-<img title="yumdmb's languages" alt="yumdmb's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdmb&langs_count=10&theme=codeSTACKr&hide=makefile"/>
-<!-- <img alt="yumdm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yumdmb&show_icons=true&theme=codeSTACKr""/> -->
-<img title="Streaks" alt="yumdmb's streak" src="https://github-readme-streak-stats.herokuapp.com?user=yumdmb&theme=codeSTACKr"/>
+<a href="https://github.com/yumdmb">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yumdmb&theme=codeSTACKr" alt="https://github.com/yumdmb"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yumdmb&show_icons=true&theme=codeSTACKr" alt="yudmb's github stats"  /> 
+</p>    
+    
+    
+    
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdmb&langs_count=10&theme=codeSTACKr&hide=makefile" alt="yumdmb's top languages" style="display: contents;max-width: 100%;" />
 </p>
 
