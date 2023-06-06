@@ -49,6 +49,6 @@
     
     
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdmb&langs_count=10&theme=codeSTACKr&hide=makefile" alt="yumdmb's top languages" style="display: contents;max-width: 100%;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumdmb&langs_count=7&theme=codeSTACKr" alt="yumdmb's top languages" style="display: contents;max-width: 100%;" />
 </p>
 
