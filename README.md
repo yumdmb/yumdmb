@@ -5,35 +5,31 @@
 </p>
 
 <p align="center">
-  <img alt="coding workspace" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" height="200px" style="border-radius: 6px;"/>
+  <img alt="coding workspace" src="https://64.media.tumblr.com/e2e4d66f9b38602d500fa992267bfb9f/tumblr_p0crtocc781w4t58uo1_540.gifv" height="200" style="border-radius: 6px;"/>
 </p>
 
 ---
 
 <p align="center">
-  <!-- Streak Stats -->
+  <!-- Streak Stats & Top Languages -->
   <a href="https://github.com/yumdmb">
-    <img src="https://streak-stats.demolab.com?user=yumdmb&theme=dracula" alt="GitHub Streak" width="85%" />
+    <img src="https://streak-stats.demolab.com?user=yumdmb&theme=dracula" alt="GitHub Streak" height="195" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
   <a href="https://github.com/yumdmb">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yumdmb&theme=dracula" alt="Top Languages" width="85%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yumdmb&theme=dracula" alt="Top Languages" height="195" />
   </a>
 </p>
 
 <p align="center">
   <!-- Trophies -->
   <a href="https://github.com/yumdmb">
-    <img src="https://github-profile-trophy.vercel.app/?username=yumdmb&theme=dracula" alt="Trophy Case" width="85%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yumdmb&theme=dracula" alt="Trophy Case" />
   </a>
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
   <a href="https://github.com/yumdmb">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yumdmb&theme=dracula" alt="Activity Graph" width="85%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yumdmb&theme=dracula" alt="Activity Graph" width="836" />
   </a>
 </p>
